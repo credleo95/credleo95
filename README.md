@@ -7,7 +7,7 @@ My name is Omarius! I am a developer who is interested in creating simple & effi
 - 👯 I’m looking to collaborate on ... Next.js
 - 🤔 I’m looking for help with ... Vue.js
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... <credleo@outlook.com>
+- 📫 How to reach me: ... <contact@omarius.dev>
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I can speak Italian at an intermediate level. 
 

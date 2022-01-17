@@ -1,16 +1,13 @@
-### Hi there 👋
+### Here is what I'm currently working on! 👋
 
-<!--
-**credleo95/credleo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Django
+- 🌱 I’m currently learning ... Django
+- 👯 I’m looking to collaborate on ... Next.js
+- 🤔 I’m looking for help with ... Vue.js
+- 💬 Ask me about ... Anything 
+- 📫 How to reach me: ... <credleo@outlook.com>
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: ... I can speak Italian at an intermediate level. 
+

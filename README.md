@@ -5,7 +5,7 @@ My name is Omarius! I am a developer who is interested in creating simple & effi
 - 🔭 I’m currently working on ... React
 - 🌱 I’m currently learning ... Django
 - 👯 I’m looking to collaborate on ... Next.js
-- 🤔 I’m looking for help with ... Vue.js
+- 🤔 I’m looking for help with ... Go (golang)
 - 💬 Ask me about ... Anything 
 - 📫 How to reach me: ... <contact@omarius.dev>
 - 😄 Pronouns: ... He/Him/His
